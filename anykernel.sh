@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=UGHTEA by @D4rkKnight21
+kernel.string=perf by @D4rkKnight21
 do.devicecheck=1
 do.modules=0
 do.systemless=1
